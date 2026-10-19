@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CareAuth.Api/CareAuth.Api.csproj" />
+  <Project Path="CareAuth.Application/CareAuth.Application.csproj" />
+  <Project Path="CareAuth.Domain/CareAuth.Domain.csproj" />
+  <Project Path="CareAuth.Infrastructure/CareAuth.Infrastructure.csproj" />
+</Solution>
